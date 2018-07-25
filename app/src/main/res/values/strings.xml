@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavigatioDrawerDemooooo</string>
+    <string name="todo">TODO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Strings For Menu-->
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="events">Events</string>
+    <string name="favorite">Favorites</string>
+    <string name="inbox">Inbox</string>
+    <string name="contact">Contact Us</string>
+    <string name="feed_back">Feed back</string>
+    <string name="setting">Settings</string>
+    <string name="dashboard">DASHBOARD</string>
+
+    <!--Strings For items Layout-->
+    <string name="user">USER NAME </string>
+
+</resources>
